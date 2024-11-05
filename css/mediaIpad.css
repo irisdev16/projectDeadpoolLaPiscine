@@ -1,0 +1,58 @@
+@media screen and (min-width:481px) and (max-width:1280px){
+
+    .ipadNone{
+        display: none;
+    }
+
+   
+    .logo{
+        width: 100px;
+    }
+    
+    .hidden{
+        display: block;
+        width: 100px;
+    }
+
+    .right{
+    text-align: right;
+}
+
+    .flex2{
+        margin-top: 80px;
+
+    }
+
+    .flex5{
+        flex-wrap: wrap;
+    }
+
+    .tailleArticleIpad{
+        width: 400px;
+    }
+
+
+     /* FUNKO POP! */
+
+    .flex6{
+        flex-wrap: wrap;
+    }
+
+
+   
+    .tailleDivIpad{
+        width: 80%;
+    }
+
+    .order1{
+        order: 1;
+    }
+
+    .order2{
+        order: 2;
+    }
+
+    .order3{
+        order: 3;
+    }
+}

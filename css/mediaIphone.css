@@ -1,0 +1,45 @@
+@media screen and (max-width:480px){
+
+    .iphoneNone{
+        display: none;
+    }
+
+    .hidden{
+        display: block;
+        width: 100px;
+    }
+
+    .flex5{
+        flex-wrap: wrap;
+    }
+
+    .tailleArticleIphone{
+        width: 400px;
+    }
+
+  
+
+
+    .flex6{
+        flex-wrap: wrap;
+    }
+
+    .order1{
+        width:50%;
+        order: 2;
+    }
+
+    .order2{
+        width: 50%;
+        order: 3;
+    }
+
+    .order3{
+        width:60%;
+        order: 1;
+    }
+
+
+
+
+}
